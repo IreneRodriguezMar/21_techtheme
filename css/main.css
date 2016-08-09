@@ -12,11 +12,11 @@ color: white;
 	background-repeat: no-repeat;
 	background-size: cover;
 	width:100%;
-	padding-top: 8%;
+	padding-top: 9%;
 }
 
-.pr-72{
-	padding-right: 72%;
+.pr-60{
+	padding-right: 60%;
 }
 .pt-2{
 	padding-top: 2%;
@@ -35,6 +35,10 @@ color: white;
 	font-size: 75px;
 }
 
+.text3{
+ font-family: Verdana;
+ color:gray;
+}
 .button1{
 	height:50px;
 	width:150px;
@@ -46,9 +50,9 @@ color: white;
 .button2{
 	height:50px;
 	width:150px;
-	background-color: #E6E6E6;
-	opacity: 0.2;
- }
+	background-color:#585858;
+	border:0;
+}
 
 .icon2{
 	color:#04B4AE;
@@ -61,5 +65,32 @@ color: white;
 .lap{
 	width:100%;
 }
+
+.pt-2{
+	padding-top: 2%;
+}
+
+.pl-15{
+	padding-left: 15%;
+}
+
+.button3{
+	height:50px;
+	width:150px;
+	background-color:blue;
+	border:0;
+}
+
+.submenu{
+	height:50px; 
+	width:150px;
+	background-color:white;
+	border:0;
+	font-family: Verdana;
+	font-size: 15px;
+	margin-left: 2%;
+}
+
+
 
 
