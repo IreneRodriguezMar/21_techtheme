@@ -18,3 +18,105 @@ input.boton-aqua{/*estilos del formulario*/
 	border: 0;
 	background-color: aqua;
 }
+.texto1{/*estilos del texto sobre imagen*/
+	margin-top: 5%;
+	font-size: 180%;
+}
+.texto2{/*estilos del texto sobre imagen para parrafo 2*/
+	font-size: 180%;
+}
+.botcall{/*estilos del boton call to action*/
+background-color:gray;
+opacity: 0.5;
+width: 10%;
+height: 10%;
+margin-top: 5%;
+}
+.calltoaction{/*estilos del texto dento del boton*/
+color: white;
+text-decoration: none;
+font-size: 100%;
+}
+.backgray{/*fondo gris*/
+background-color:#F5F5F5;
+height: 800px;
+}
+.chose{/*estilos del titulo chose the package*/
+font-size: 200%;
+margin-top: 5%;
+color:gray;
+}
+.text3{/*texto debajo de chose the pack*/
+font-size: 150%;
+margin-top: 1%;
+}
+.cuadroblanco{
+background-color: white;
+height: 600px;
+width: 400px;
+margin-left: 1%;
+	}	
+.blancos{/*movimiento cuadros blancos*/
+	margin-left: 3%;
+	margin-top: 3%;
+}
+.cuadrostandart{/*cuadros standart negros*/
+	background-color: black;
+	width: 350px;
+	height: 100px;
+	margin-top: 5%;
+	margin-left: 3%;
+}
+.cuadraqua{/*cuadros standart negros*/
+	background-color: aqua;
+	width: 350px;
+	height: 100px;
+	margin-top: 5%;
+	margin-left: 3%;
+}
+.pack{/*texto en cuadros pack*/
+font-size: 40px;
+padding-top: 5%;
+}
+.cuadrogris{/*cuadro gris debajo de negro*/
+	background-color: silver;
+	width: 350px;
+	height: 150px;
+	margin-left: 3%;
+}
+.from{/*precio*/
+font-size: 30px;
+padding-top: 15%;
+color:gray;
+}
+.text4{/*texto debajo de cuadros negro y gris*/
+margin-top: 5%;
+font-size: 20px;
+color: gray;
+}
+.botpurchase{/*boton purchase*/
+background-color:black;
+width: 30%;
+height: 10%;
+margin-top: 5%;
+}
+.purchase{/*texto de purchase*/
+color: white;
+text-decoration: none;
+font-size: 100%;
+}
+.titulowhat{
+	margin-top: 5%;
+	font-size: 50px;
+}
+.customer{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	margin-left: 500px;
+	margin-top: 10%;
+	margin-bottom: 2%;
+}
+.letras{
+	font-size: 30px;
+}
