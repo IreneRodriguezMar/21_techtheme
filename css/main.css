@@ -1,0 +1,65 @@
+.back1{
+	background-color: black;
+}
+
+
+.icon1{
+color: white;
+}
+
+.fondo1{
+	background-image: url("../img/background/hero.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:100%;
+	padding-top: 8%;
+}
+
+.pr-72{
+	padding-right: 72%;
+}
+.pt-2{
+	padding-top: 2%;
+}
+
+.pt-15{
+	padding-top: 15%;
+}
+
+.menu{
+	padding: 2% 2% 2% 10%;
+
+}
+
+.text1{
+	font-size: 75px;
+}
+
+.button1{
+	height:50px;
+	width:150px;
+	background-color:#585858;
+	margin: 5%;
+	border:0;
+}
+
+.button2{
+	height:50px;
+	width:150px;
+	background-color: #E6E6E6;
+	opacity: 0.2;
+ }
+
+.icon2{
+	color:#04B4AE;
+}
+
+.pb-15{
+	padding-bottom: 15%;
+}
+
+.lap{
+	width:100%;
+}
+
+
